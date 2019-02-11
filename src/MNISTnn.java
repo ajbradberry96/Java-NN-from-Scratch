@@ -1,8 +1,6 @@
 /**
  * Author: Andrew Bradberry
- * Student ID: 102-43-710
  * Date Written: 10/7/2018
- * Assignment #2: MNIST with Neural Network
  * Description: Implements a basic Multi-Layer neural network in order to classify handwritten digits from the ubiquitous MNIST dataset. 
 **/
 

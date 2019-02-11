@@ -1,8 +1,6 @@
 /**
  * Author: Andrew Bradberry
- * Student ID: 102-43-710
  * Date Written: 10/7/2018
- * Assignment #2: MNIST with Neural Network
  * Description: A basic multi-layer neural network using the sigmoid activation function,
  * that has variable size.
 **/

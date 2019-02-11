@@ -1,8 +1,6 @@
 /**
  * Author: Andrew Bradberry
- * Student ID: 102-43-710
  * Date Written: 10/7/2018
- * Assignment #2: MNIST with Neural Network
  * Description: Static class which handles all mathematical Matrix operations. 
 **/
 

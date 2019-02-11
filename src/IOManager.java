@@ -1,8 +1,6 @@
 /**
  * Author: Andrew Bradberry
- * Student ID: 102-43-710
  * Date Written: 10/7/2018
- * Assignment #2: MNIST with Neural Network
  * Description: Handles all IO for MNIST assignment, including gathering user-input, displaying information,
  * and saving to files. Currently, uses a command line system.
 **/
